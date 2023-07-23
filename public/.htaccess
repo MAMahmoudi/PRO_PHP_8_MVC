@@ -3,7 +3,7 @@ Options -MultiViews
 
 RewriteEngine On
 
-RewriteBase /Foodz/MVC/public
+RewriteBase /PRO_PHP_8_MVC/public/
 
 # Accept loading of actual -f files and -d directories
 # It means that if the user type a valid file name or a valid directory name ==> just open it
